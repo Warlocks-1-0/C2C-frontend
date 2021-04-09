@@ -10,7 +10,7 @@ const LandingPage=() =>{
         <div id="Title" style={{left: '6%', top: '30%'}}><h1>Compound It!</h1></div>
         <div style={{fontSize: '150%', color: 'white', position: 'absolute', top: '5%', left: '80%'}}><a href="#scroller">Features</a></div>
         <div style={{fontSize: '150%', color: 'white', position: 'absolute', top: '5%', left: '70%'}}><a href="#">Support</a></div>
-        <div style={{color: 'white', position: 'absolute', top: '75%', left: '70%'}}><span>An application where the user can cut down the usage of specified websites by selecting a mode that helps him to focus on what actually matters. You can just specify the schedule and websites so that the user couldn't access those websites during that particular period of time. It helps you to track your stats like time spent on various technical activities, hobbies, or work. You can connect with others and see what they are working on.</span></div>
+        <div style={{textSize:'150%',textAlign:'left',color: 'white', position: 'absolute', width: '600px',top: '45%', left: '6%'}}><span>An application where the user can cut down the usage of specified websites by selecting a mode that helps him to focus on what actually matters. You can just specify the schedule and websites so that the user couldn't access those websites during that particular period of time. It helps you to track your stats like time spent on various technical activities, hobbies, or work. You can connect with others and see what they are working on.</span></div>
       </div>
       <div className="parallax__layer parallax__layer--deep">
         <div id="animations" className>
